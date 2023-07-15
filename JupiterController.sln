@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JupiterRoverApplication", "JupiterRoverController\JupiterRoverApplication.csproj", "{D2580FEF-C9E6-4F26-990F-A2CE8BEF7477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JupiterRoverApplication", "JupiterRoverController\JupiterRoverApplication.csproj", "{D2580FEF-C9E6-4F26-990F-A2CE8BEF7477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverControllerTests", "RoverControllerTests\RoverControllerTests.csproj", "{D4353FC9-6323-4DB4-96B7-5AAC5917C99F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D2580FEF-C9E6-4F26-990F-A2CE8BEF7477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2580FEF-C9E6-4F26-990F-A2CE8BEF7477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2580FEF-C9E6-4F26-990F-A2CE8BEF7477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4353FC9-6323-4DB4-96B7-5AAC5917C99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4353FC9-6323-4DB4-96B7-5AAC5917C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4353FC9-6323-4DB4-96B7-5AAC5917C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4353FC9-6323-4DB4-96B7-5AAC5917C99F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
